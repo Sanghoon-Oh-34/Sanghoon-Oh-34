@@ -1,3 +1,7 @@
+### Hi there 👋
+I am studying in Data Sceince, Specially interested in Data Analytics.
+
+### 🧑‍💻About Me
 <p>
   <img src="https://img.shields.io/badge/bonafatre@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   <a href='https://34newlife.tistory.com/' target='_blank'>
@@ -7,10 +11,6 @@
     <img src="https://img.shields.io/badge/LinkeIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
   </a>
 </p>
-  
-### Hi there 👋
-I am studying in Data Sceince, Specially interested in Data Analytics.
-
 
 ### 💪Skills  
 <p>
