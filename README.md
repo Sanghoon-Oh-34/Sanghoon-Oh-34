@@ -1,3 +1,6 @@
+<img src="https://img.shields.io/badge/bonafatre@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+
+
 ### Hi there 👋
 
 <!--
