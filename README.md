@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am studying in Data Sceince, Specially interested in Data Analytics.
+I am studying in Data Science, Specially interested in Data Analytics.
 
 ### 🧑‍💻About Me
 <p>
