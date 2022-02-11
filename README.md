@@ -23,4 +23,5 @@ I am studying in Data Science, Specially interested in Data Analytics.
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-#E97627?style=flat-square&logo=Tableau&logoColor=white"/>
 </p>
